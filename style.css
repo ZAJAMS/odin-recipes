@@ -1,6 +1,14 @@
+body {
+    background-color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color:chartreuse;
+    color-scheme: brown;
+
+}
+
 h1 {
     background-color: black; 
     font-size: xx-large; 
     color: pink;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
